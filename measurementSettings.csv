@@ -1,0 +1,10 @@
+DataSource,Measurement,AgencyMeasurementName,ItemNo,Units
+Rainfall,Max,Precipitation Month Max,4,mm
+Rainfall,Mean,Precipitation Month Mean,1,mm
+Rainfall,Median,Precipitation Month Median,2,mm
+Rainfall,Min,Precipitation Month Min,3,mm
+GWLevel,Percentile.25,Level Monthly 25th Percentile,2,m
+GWLevel,Percentile.75,Level Monthly 75th Percentile,4,m
+GWLevel,Max,Level Monthly Maximum,5,m
+GWLevel,Median,Level Monthly Median,3,m
+GWLevel,Min,Level Monthly Minimum,1,m

@@ -1,0 +1,17 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Old Files
+**/Hilltop
+**/OldOutputs
+WriteCodedHilltopWQXML.R
+
+# Output Files
+*.xml
+*.csv
+
+# Include settings
+
+!measurementSettings.csv
