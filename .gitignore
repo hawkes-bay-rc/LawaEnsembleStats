@@ -11,6 +11,7 @@ WriteCodedHilltopWQXML.R
 # Output Files
 *.xml
 *.csv
+*.html
 
 # Include settings
 
